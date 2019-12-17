@@ -1,0 +1,95 @@
+.content {
+    color: chartreuse;
+    background-color: green;
+}
+
+.divider {
+    display: flex;
+    justify-content: center;
+}
+
+
+.nav__header {
+    max-height: 100px;
+    background-color: rgb(89, 191, 89);
+}
+
+.nav__content {
+    display: flex;
+    justify-content: center;
+}
+/* end of navbar */
+/* start of header */
+.space {
+    background-color: lightgray;
+}
+
+.header__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__img {
+    height: 600px;
+    width: 500px;
+    margin-left: 150px;
+}
+.header__img:hover {
+    content: url(../img/brand2.png);
+}
+/* start of main */
+.main__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main__content {
+    /* display: flex; */
+}
+
+.main__img1 {
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+}
+
+.main__img2 {
+    height: 500px;
+    width: 750px;
+    margin-left: 10px;
+    border: 5px solid black;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    text-align: left;
+}
+
+.main__img2:hover {
+    content: url(../img/backcard.png);
+}
+
+.footer__content {
+    text-align: center;
+}
+
+.center {
+    
+    height: 400px;
+    width: 500px;
+    
+}
+
+br {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+main {
+    background-color: chartreuse;
+}
